@@ -154,6 +154,13 @@
 جميع التصاميم، المخططات الهندسية، البنى الهيكلية، وأكواد توليد الهوية البصرية الموجودة داخل هذا المستودع مملوكة ومسجلة باسم مطور ومبتكر المشروع:
 
 
+
+<p align="center">
+  <img src="./assets/AWSAN OMAN LOGO.png" alt="AWSAN OMAN LOGO" width="1200">
+</p>
+
+
+
 👤 **Author:** Eng. Awsan Adel Abdulbari Ahmed Sultan  
 
 📍 **Origin:** YEMEN | **ID:** 01010305468  
