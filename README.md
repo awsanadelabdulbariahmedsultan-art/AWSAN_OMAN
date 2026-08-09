@@ -33,8 +33,9 @@
 
 
 <p align="center">
-  <img src="./منظور جوي شامل وموحد (Ultimate Aerial Masterplan).png" alt="منظور جوي شامل وموحد (Ultimate Aerial Masterplan)" width="1254" height="1254"/>
+  <img src="./assets/منظور جوي شامل وموحد (Ultimate Aerial Masterplan).png" alt="منظور جوي شامل وموحد (Ultimate Aerial Masterplan)" width="500">
 </p>
+
 
 
 مشروع سياحي مستقبلي فاخر يعتمد على مفهوم **"الكبسولات الذكية المعلقة"** وسياحة الاستشفاء والمغامرات البيئية، صُمم ليكون أيقونة معمارية عالمية تضع قرية **شُحيث** على خارطة السياحة المستدامة طوال العام، تماشياً مع "رؤية عُمان 2040".
