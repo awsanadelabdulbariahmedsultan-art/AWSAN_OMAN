@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="./AWSAN OMAN LOGO.png" alt="AWSAN OMAN LOGO" width="1254" height="1254"/>
+  <img src="./الطبيعة الجبلية لقرية شُحيث بتصميم المنتج.png" alt="الطبيعة الجبلية لقرية شُحيث بتصميم المنتج" width="1254" height="1254"/>
 </p>
 
 
