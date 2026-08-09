@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="./assets/منظور جوي شامل وموحد (Ultimate Aerial Masterplan).png" alt="منظور جوي شامل وموحد (Ultimate Aerial Masterplan)" width="500">
+  <img src="./assets/منظور جوي شامل وموحد (Ultimate Aerial Masterplan).png" alt="منظور جوي شامل وموحد (Ultimate Aerial Masterplan)" width="1200">
 </p>
 
 
