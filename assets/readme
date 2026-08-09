@@ -1,0 +1,178 @@
+# 🗺️ أوسان عُمان | AWSAN OMAN (Multi-Project Repository)
+
+<p align="center">
+  <img src="https://shields.io" alt="Powered By">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="License">
+</p>
+
+<p align="center">
+  <!-- الشعار الرئيسي للمشروع -->
+  <img src="./assets/awsan-oman-logo.png" alt="Awsan Oman Brand Logo" width="500">
+</p>
+
+مستودع استراتيجي متكامل مخصص لإدارة وتطوير المشاريع السياحية والمعمارية المستقبلية الفاخرة في سلطنة عُمان. يعتمد هذا المستودع على هيكلية المشاريع المتعددة (Monorepo) لتوثيق الجوانب الهندسية، البيئية، والتقنية لكل وجهة يتم ابتكارها.
+
+---
+
+## 🚀 خارطة الطريق والمشاريع الحالية (Active Projects)
+
+| الرقم | اسم المشروع | النطاق الجغرافي | الحالة | الرابط الداخلي |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | **منتجع أوسان عُمان البيئي المستقبلي** | جبال شُحيث، محافظة ظفار | 🟢 مكتمل الجوانب البصرية | [الانتقال للمشروع](./projects/01-shuhayt-eco-resort) |
+| **02** | *المشروع القادم* | سيعلن عنه لاحقاً | ⚪ قيد التخطيط | `TBD` |
+
+---
+
+# 📌 المشروع الأول: منتجع أوسان عُمان البيئي (شُحيث)
+**Awsan Oman Luxury Eco-Resort @ Shuhayt Cliffs**
+
+مشروع سياحي مستقبلي فاخر يعتمد على مفهوم **"الكبسولات الذكية المعلقة"** وسياحة الاستشفاء والمغامرات البيئية، صُمم ليكون أيقونة معمارية عالمية تضع قرية **شُحيث** على خارطة السياحة الفاخرة المستدامة طوال العام، تماشياً مع "رؤية عُمان 2040".
+
+<p align="center">
+  <!-- المنظور الجوي الشامل والموحد بديل (Ultimate Aerial Masterplan) -->
+  <img src="./assets/ultimate-masterplan-v2.png" alt="Awsan Oman Full Aerial Masterplan" width="49%">
+  <!-- منظور جوي شامل وموحد (Ultimate Aerial Masterplan) -->
+  <img src="./assets/ultimate-aerial-masterplan.png" alt="Awsan Oman Terraced Aerial Masterplan Overview" width="49%">
+</p>
+
+---
+
+## 🏛️ خطة التقديم للوزارات والجهات المعنية
+للحصول على التراخيص وحق الانتفاع للأرض والتسهيلات الاستثمارية، يتم توزيع الملف على ثلاث جهات رئيسية:
+1. **وزارة التراث والسياحة العُمانية:** لطلب الموافقة المبدئية لتصنيف المشروع كمنتجع بيئي فاخر (Eco-Resort) من فئة 5 نجوم مع اعتماد خطة القيمة المحلية المضافة (ICV).
+2. **وزارة الإسكان والتخطيط العمراني:** لتقديم طلب تخصيص وحجز الأرض بمساحة إجمالية **200,000 م²** في قرية شُحيث بمحافظة ظفار بنظام عقد انتفاع طويل الأمد.
+3. **بلدية ظفار (وهيئة البيئة):** لاعتماد المخطط الهندسي للمرحلة الأولى ومراجعة دراسة الأثر البيئي لضمان تطبيق معيار "صفر خرسانة ثقيلة".
+
+---
+
+## 📐 المخطط المساحي التفصيلي للمرحلة الأولى (80,000 م²)
+
+| الرقم | المرفق والمنطقة | المساحة المخصصة (م²) | الأعداد والأبعاد التقنية الفنية |
+| :--- | :--- | :--- | :--- |
+| **01** | **جناح الكبسولات السكنية الفاخرة** | **35,000 م²** | **العدد: 35 كبسولة ذكية** (أبعاد الكبسولة: 11.5م × 3.3م = 37.95 م²). يتم تباعد الكبسولات بمسافة 25 إلى 30 متراً لخصوصية مطلقة وتتصل بممرات معلقة. |
+| **02** | **مجمع الطعام ومسبح الإنفينيتي** | **8,000 م²** | • **مسبح إنفينيتي دافئ:** قطره 25 متراً يتوسط الأفق الجبلي مع حواف متماهية.<br>• **المطعم البانورامي الدائري:** مبنى زجاجي هجين مزدوج الطابق بقطر 20 متراً. |
+| **03** | **سياحة الاستشفاء والصحة (Spa Pod)** | **5,000 م²** | • **مركز اللبان الاستشفائي:** يضم كبسولات كبرى للعلاجات الطبيعية بجلسات مساج هيدروليكية.<br>• منصات خشبية ممتدة لتمارين اليوغا والتأمل على حافة المنحدر. |
+| **04** | **تكنولوجيا الفلك والواقع المعزز** | **4,000 م²** | **العدد: 5 كبسولات فلكية متطورة** بأسقف زجاجية بانورامية بالكامل مجهزة بتلسكوبات رقمية موجهة للسماء ونظام شاشات (AR) تفاعلي. |
+| **05** | **منطقة الاستقبال والمهبط (Welcome Plaza)** | **6,000 م²** | • ساحة دائرية إسفلتية لمهبط المروحيات (Helipad).<br>• النصب التذكاري الحجري وبوابة الاستقبال الفاخرة المدمجة بالصخر الطبيعي. |
+| **06** | **المواقف الشمسية وقرية المتاجر الحجرية** | **12,000 م²** | • **مواقف السيارات الذكية:** مسار بطول 80 متراً مسقوف بالألواح الشمسية.<br>• **قرية المتاجر:** 8 محلات حجرية ومقاهٍ (مثل مقهى الخنجر ومعرض اللبان). |
+| **07** | **منطقة ترفيه الأطفال والأنشطة المفتوحة** | **6,000 م²** | • **قرية المغامرات الخشبية:** بيوت شجرية وجسور حبال آمنة متداخلة مع الطبيعة.<br>• **السينما الخارجية:** شاشة عرض عملاقة مع ساحة تخييم عشبية. |
+| **08** | **المغامرات الجبلية الشيقة (Extreme Adventure)**| **2,500 م²** | منصة انطلاق فولاذية معلقة على الجرف الصخري تضم نقطة بداية **الزيبلاين الطائر** وقواعد **أرجوحة المنحدر العملاقة (Canyon Swing)**. |
+| **09** | **منطقة الأصالة والثقافة العُمانية** | **1,500 م²** | • **موقد أوسان الجبلي:** ساحة لطهي لحم "المضبي" التقليدي على أحجار الوادي الساخنة.<br>• **مجلس السامر المفتوح:** ساحة دائرية منخفضة حول نار مركزية لضيافة السمر. |
+| **-** | **إجمالي مساحة التشغيل والمرافق** | **80,000 م²** | **المخطط المتكامل والنهائي للمرحلة الأولى.** |
+
+---
+
+## 🗺️ Mapped Resort Zones & Visual Gallery
+
+### 1. منطقة الاستقبال المركزية ومهبط الهليكوبتر (The Welcome Plaza)
+<p align="center">
+  <!-- منطقة الاستقبال المركزية ومهبط الهليكوبتر -->
+  <img src="./assets/welcome-plaza.png" alt="Awsan Oman Grand Entrance, Helipad & Welcome Plaza" width="100%">
+</p>
+
+### 2. الجناح الفندقي والكبسولات الفاخرة (Capsule Clusters)
+<p align="center">
+  <!-- التصميم الداخلي للكبسولة والغرفة والتواليت الذكي 1 -->
+  <img src="./assets/interior.png" alt="Capsule Smart Interior Design - View 1" width="49%">
+  <!-- التصميم الداخلي للكبسولة والغرفة والتواليت الذكي 2 -->
+  <img src="./assets/interior-view2.png" alt="Capsule Smart Interior Design with Branding - View 2" width="49%">
+</p>
+<p align="center">
+  <!-- المنظور الخارجي واللوحة التذكارية الخشبية -->
+  <img src="./assets/exterior-branding.png" alt="Awsan Oman Grand Entrance and Landmark Sign" width="100%">
+</p>
+<p align="center">
+  <!-- منطقة كبسولات الإقامة الفاخرة -->
+  <img src="./assets/capsule-cluster-v2.png" alt="Awsan Oman Luxury Pod Horizon View" width="100%">
+</p>
+<p align="center">
+  <!-- الكبسولة المطلة والمنحدر الجبلي -->
+  <img src="./assets/capsule-view1.png" alt="Cantilevered Cliff Capsule View" width="49%">
+  <!-- المنظور الخارجي لتجمع الكبسولات والممرات الملتوية -->
+  <img src="./assets/exterior-cluster.png" alt="Awsan Oman Elevated Pod Cluster" width="49%">
+</p>
+
+### 3. منطقة الطعام والاستجمام المركزية (The Cliff Hub)
+<p align="center">
+  <!-- المطعم الزجاجي الدائري ومسبح الإنفينيتي المعلق القريبة -->
+  <img src="./assets/dining-pool-cliff.png" alt="The Cliff Hub - Close-up Architectural View of Restaurant & Infinity Pool" width="100%">
+</p>
+<p align="center">
+  <!-- مخطط عام للمنتجع (المسبح والمطعم والحدائق) 2 -->
+  <img src="./assets/masterplan-hub.png" alt="The Cliff Hub - Swimming Pool & Panoramic Lounge View 1" width="49%">
+  <!-- مخطط عام للمنتجع (اللقطة المركزية البانورامية) 3 -->
+  <img src="./assets/masterplan-view2.png" alt="The Cliff Hub - Panoramic View 2" width="49%">
+</p>
+<p align="center">
+  <!-- المنظور الجوي المتكامل والأول للمشروع -->
+  <img src="./assets/aerial-masterplan.png" alt="Awsan Oman Terraced Aerial Masterplan Overview" width="100%">
+</p>
+
+### 4. المنطقة الخدمية والتجارية المستدامة (Retail & Parking)
+<p align="center">
+  <!-- المواقف الذكية وقرية المتاجر الحجرية -->
+  <img src="./assets/retail-parking.png" alt="Awsan Oman Luxury Sustainable Retail Village & Solar Parking Lot" width="100%">
+</p>
+
+### 5. منطقة الترفيه المستدام للأطفال (Eco-Playground)
+<p align="center">
+  <!-- منطقة ترفيه مستدام للأطفال 2 -->
+  <img src="./assets/kids-playground.png" alt="Advanced Sustainable Children Eco-Playground - View 1" width="49%">
+  <!-- لقطة إضافية لمنطقة ترفيه مستدام للأطفال 4 -->
+  <img src="./assets/kids-playground-view2.png" alt="Advanced Sustainable Children Eco-Playground - View 2" width="49%">
+</p>
+<p align="center">
+  <!-- منطقة ترفيه مستدام للأطفال 3 -->
+  <img src="./assets/kids-playground-v3.png" alt="Advanced Sustainable Children Eco-Playground - View 3" width="100%">
+</p>
+
+---
+
+## 🔮 محاور التطوير المستقبلي والابتكار
+
+### 1. النقل الذكي المستدام وسياحة المغامرات (Futuristic Mobility & Extreme Adventure)
+<p align="center">
+  <!-- نقل ذكي مستدام (عربات الغولف والتلفريك) -->
+  <img src="./assets/futuristic-mobility.png" alt="Awsan Oman Futuristic Mobility - Autonomous Shuttles & Cable Car" width="100%">
+</p>
+
+### 2. سياحة الاستشفاء والصحة البيئية (Spa Pod)
+<p align="center">
+  <!-- سياحة الاستشفاء (منتجع اللبان وجلسات اليوغا) -->
+  <img src="./assets/spa-wellness.png" alt="Awsan Oman Luxury Frankincense Spa & Yoga Decks" width="100%">
+</p>
+
+### 3. تكنولوجيا الفلك والواقع المعزز (AR Stargazing)
+<p align="center">
+  <!-- التطور التقني الفائق (أسقف التلسكوب ورصد النجوم ليلًا) -->
+  <img src="./assets/ar-stargazing.png" alt="Awsan Oman Hyper-Tech Stargazing & AR Telescope Pod" width="100%">
+</p>
+
+### 4. تجارب المغامرة الجبلية الشيقة (Extreme Adventure)
+<p align="center">
+  <!-- تجارب المغامرة الجبلية (الزيبلاين والأرجوحة المعلقة) 1 -->
+  <img src="./assets/extreme-adventure-v1.png" alt="Awsan Oman Extreme Mountain Adventure - View 1" width="49%">
+  <!-- منطقة مغامرات الجناح الطائر وتلفريك السحاب -->
+  <img src="./assets/extreme-adventure3.png" alt="Awsan Oman Extreme Mountain Adventure - Zipline & Canyon Swing" width="49%">
+</p>
+
+---
+
+## 🕌 الأصالة وتكامل الهوية العُمانية
+
+<p align="center">
+  <!-- موقد أوسان الجبلي -->
+  <img src="./assets/awsan-mountain-kitchen.png" alt="Awsan Mountain Earth Kitchen & Madhbi Cooking" width="100%">
+</p>
+<p align="center">
+  <!-- مجلس السامر المفتوح -->
+  <img src="./assets/samer-outdoor-lounge.png" alt="The Samer Outdoor Fire-Pit Lounge" width="49%">
+  <!-- الهندسة البصرية التراثية -->
+  <img src="./assets/heritage-interior.png" alt="Heritage Visual Integration Inside Capsule" width="49%">
+</p>
+
+---
+
+## ⚙️ معايير البيئة والاستدامة
+* **صفر خرسانة ثقيلة:** الحفاظ الكامل على تضاريس جبل شُحيث من خلال التثبيت الهيدروليكي المرتفع عن الأرض.
