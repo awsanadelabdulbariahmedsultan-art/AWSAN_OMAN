@@ -1,4 +1,4 @@
-# 🗺️ أوسان عُمان | AWSAN OMAN (Multi-Project Repository)
+# 🗺️ أوسان عُمان | AWSAN OMAN
 
 ---
 
